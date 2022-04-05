@@ -101,7 +101,7 @@ tests/triangle-vulkan
 tests/window
 tests/windows
 
-# Hazel-specific
+# Orca-specific
 # Directories
 bin/
 bin-int/
